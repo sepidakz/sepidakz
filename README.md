@@ -4,6 +4,9 @@
 mobility and fintech. MA in Data-Driven Design (HU Utrecht), BSc in Physics.
 
 I design data-informed products and build the prototypes to prove them.
+**Practice:** User Research and Usability Testing · Design Systems · Interaction Design ·
+Information Architecture · Prototyping · A/B Testing and Experiment Design ·
+Behavioral Analysis · Accessibility (WCAG) · Workshop facilitation
 
 🔗 [Portfolio](https://www.sepidehzamani.com/) · [LinkedIn](https://www.linkedin.com/in/sepidehzamani/)
 
@@ -35,10 +38,19 @@ I design data-informed products and build the prototypes to prove them.
 ![Mixpanel](https://img.shields.io/badge/-Mixpanel-7856FF?logo=mixpanel&logoColor=white&style=for-the-badge)
 ![Amplitude](https://img.shields.io/badge/-Amplitude-1E61F0?logo=amplitude&logoColor=white&style=for-the-badge)
 
-
-**Design & Front-end**
+**UX & Product Design**
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![FigJam](https://img.shields.io/badge/-FigJam-A259FF?logo=figma&logoColor=white&style=for-the-badge)
+![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=FFD02F&style=for-the-badge)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge)
+![Maze](https://img.shields.io/badge/-Maze-1B1B1B?style=for-the-badge)
+![Hotjar](https://img.shields.io/badge/-Hotjar-FD3A5C?logo=hotjar&logoColor=white&style=for-the-badge)
+![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?logo=adobecreativecloud&logoColor=white&style=for-the-badge)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
+
+**Front-end**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -49,6 +61,7 @@ I design data-informed products and build the prototypes to prove them.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
 
 ---
 
